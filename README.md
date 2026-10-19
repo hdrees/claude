@@ -1,5 +1,8 @@
 # Claude
 
+## Erweiterungen
+* [Archify: Turn anything you want to understand, plan, or share into an interactive visual.](https://github.com/tt-a1i/archify))
+
 ## Befehle
 * /doctor
 
