@@ -1,7 +1,10 @@
 # Claude
 
 ## Erweiterungen
-* [Archify: Turn anything you want to understand, plan, or share into an interactive visual.](https://github.com/tt-a1i/archify))
+* [Archify: Turn anything you want to understand, plan, or share into an interactive visual.](https://github.com/tt-a1i/archify)
+
+## Konzepte
+* [LLM Wiki - Ein Ansatz zum Aufbau persönlicher Wissensdatenbanken mithilfe von LLMs.](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
 ## Befehle
 * /doctor
